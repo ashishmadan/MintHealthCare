@@ -1,0 +1,29 @@
+{
+  "name": "minthealthcare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Maddie",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "git://github.com/OpenZeppelin/zeppelin-solidity.git#master"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "description": "mint health care 2017",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tnigam/Mint.git"
+  },
+  "keywords": [
+    "minthealth"
+  ],
+  "bugs": {
+    "url": "https://github.com/Tnigam/Mint/issues"
+  },
+  "homepage": "https://github.com/Tnigam/Mint#readme"
+}
