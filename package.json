@@ -17,13 +17,13 @@
   "description": "mint health care 2017",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tnigam/Mint.git"
+    "url": "git+https://github.com/ashishmadan/MintHealthCare.git"
   },
   "keywords": [
     "minthealth"
   ],
   "bugs": {
-    "url": "https://github.com/Tnigam/Mint/issues"
+    "url": "https://github.com/ashishmadan/MintHealthCare/issues"
   },
-  "homepage": "https://github.com/Tnigam/Mint#readme"
+  "homepage": "https://github.com/ashishmadan/MintHealthCare#readme"
 }
